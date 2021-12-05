@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Rowdies-Bold.ttf</file>
+        <file>fonts/Rowdies-Light.ttf</file>
+        <file>fonts/Rowdies-Regular.ttf</file>
+    </qresource>
+</RCC>

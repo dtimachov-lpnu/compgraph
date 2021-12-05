@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OptionsWindow</class>
+ <widget class="QMainWindow" name="OptionsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>428</width>
+    <height>916</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+background: #73E285;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>68</x>
+      <y>81</y>
+      <width>292</width>
+      <height>207</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background: #2ABE53;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 26px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 79px;
+color: #FFFFFF;</string>
+    </property>
+    <property name="text">
+     <string>ctg z²</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>68</x>
+      <y>350</y>
+      <width>292</width>
+      <height>207</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background: #2ABE53;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 26px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 79px;
+color: #FFFFFF;</string>
+    </property>
+    <property name="text">
+     <string>HSV CMYK</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>68</x>
+      <y>639</y>
+      <width>292</width>
+      <height>207</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background: #2ABE53;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 26px;
+
+font-family: Rowdies;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 79px;
+color: #FFFFFF;</string>
+    </property>
+    <property name="text">
+     <string>Drunk Rect</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
